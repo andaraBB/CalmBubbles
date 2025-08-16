@@ -1,0 +1,18 @@
+# Gradle / builds
+/build/
+/.gradle/
+!gradle/wrapper/**
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Runtime
+/run/
+
+# OS / divers
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
